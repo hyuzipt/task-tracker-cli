@@ -172,6 +172,4 @@ Each task in the Task Tracker CLI has the following properties:
 
 These properties are saved in `tasks.json` and are updated automatically as you modify tasks.
 
----
-
 https://roadmap.sh/projects/task-tracker
